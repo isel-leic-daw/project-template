@@ -1,2 +1,4 @@
-# project-template
-Template repository for the students project repositories
+# DAW project
+
+Please edit this document with the students names and numbers.
+
